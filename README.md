@@ -7,7 +7,7 @@
     - 👾 Acredito que há vida fora da Terra
   
 <div>
-  <a href="https://github.com/vinicius-batista-dev">
+  <a href="https://github.com/braz-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-batista-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-batista-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
