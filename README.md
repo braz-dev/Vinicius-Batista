@@ -5,6 +5,20 @@
     - 🐱‍ Atualmente estou estudando Javascript 
     - 🎸 Atualmente estou estudando Música
     - 👾 Acredito que há vida fora da Terra
+    
+## Sistemas Operacionais 
+
+    -   Linux Mint
+    -   Windows
+    
+## Músicas que gosto de ouvir
+
+    - Metallica
+    - Guns N' Roses
+    - Iron Maiden
+    - Bruno e Marrone (Escuto porque tenho que participar da turma)
+    - Leonardo (O mesmo...)
+    - Eduardo Costa (O mesmo...)
   
 <div>
   <a href="https://github.com/braz-dev/Vinicius-Batista">
