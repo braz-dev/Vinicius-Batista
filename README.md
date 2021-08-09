@@ -1,10 +1,15 @@
-# Vinicius-Batista
+
 
 # Olá meu nome é Vinicius-Batista
 
     - 🐱‍ Atualmente estou estudando Javascript 
     - 🎸 Atualmente estou estudando Música
     - 👾 Acredito que há vida fora da Terra
+    
+## Estou participando de uma Formação FrontEnd pelo Alura
+    - HTML
+    - Javascript
+    - Css
     
 ## Sistemas Operacionais 
 
